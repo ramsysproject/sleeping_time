@@ -1,0 +1,6 @@
+*.class
+.gradle
+build/distributions/
+*.jar
+*.tar
+.idea
